@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1,Delta 99.1 FM Jakarta
+http://s1.cloudmu.id:8030/radio.mp3
+
+#EXTINF:-1,Gen 98.7 FM Jakarta
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
+
+#EXTINF:-1,iSwara 101.4 FM Jakarta
+https://n12.radiojar.com/4ywdgup3bnzuv?1739561339=&rj-tok=AAABm0n-ASYAjgji2rZoqJgyww&rj-ttl=5
+
+#EXTINF:-1,Jak 101 FM Jakarta
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+
+#EXTINF:-1,Kis 95.1 FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
+
+#EXTINF:-1,Kiss 92 FM Singapore
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
+
+#EXTINF:-1,Mediacorp 98.7 FM Singapore
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
+
+#EXTINF:-1,Mediacorp Class 95.0 FM Singapore
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac
+
+#EXTINF:-1,Most 105.8 FM Jakarta
+https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
+
+#EXTINF:-1,Mustang 88.0 FM Jakarta
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+
+#EXTINF:-1,OZ 90.8 FM Jakarta
+http://streaming.ozradiojakarta.com:8010/ozjakarta
+
+#EXTINF:-1,RRI Pro 1 91.2 FM Jakarta Umum
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1,RRI Pro 2 105.0 FM Jakarta Muda
+http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+
+#EXTINF:-1,RRI Pro 3 88.8 FM Pusat Pemberitaan Nasional
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1,RRI Pro 4 92.8 FM Jakarta Budaya
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+
+#EXTINF:-1,Sonora 92.0 FM Jakarta
+https://cast1.my-control-panel.com/proxy/radioso1/stream
